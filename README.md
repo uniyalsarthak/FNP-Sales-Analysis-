@@ -1,13 +1,13 @@
-# 🌸 Ferns N Petals (FNP) Sales Analysis Dashboard
+# Ferns N Petals (FNP) Sales Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 Ferns N Petals (FNP) is a leading online gifting platform that delivers personalized gifts, flowers, and hampers for special occasions like Valentine’s Day, Raksha Bandhan, Diwali, and Birthdays.  
 This project analyzes FNP’s 2023 sales data to uncover insights into **customer behavior, product performance, and city-wise demand**.  
-An interactive dashboard was built in **Microsoft Excel** to visualize sales performance, delivery efficiency, and revenue trends — helping the company make **data-driven business decisions**.
+An interactive dashboard was built in **Microsoft Excel** to visualize sales performance, delivery efficiency, and revenue trends, helping the company make **data-driven business decisions**.
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 The project uses three CSV files containing structured data on orders, products, and customers.
 
 **1. orders.csv**  
@@ -24,11 +24,11 @@ The project uses three CSV files containing structured data on orders, products,
 - Customer ID, Customer Name  
 - City  
 
-➡️ The dataset includes **1,000 rows of transactional data**, providing insights into sales, delivery performance, and customer trends across multiple cities and product categories.
+The dataset includes **1,000 rows of transactional data**, providing insights into sales, delivery performance, and customer trends across multiple cities and product categories.
 
 ---
 
-## 🛠️ Data Preparation & Analysis Workflow
+## Data Preparation & Analysis Workflow
 The project followed a structured data analytics workflow in **Microsoft Excel**:
 
 1. **Data Extraction** – Imported `orders.csv`, `products.csv`, and `customers.csv` into Excel.  
@@ -41,7 +41,7 @@ The project followed a structured data analytics workflow in **Microsoft Excel**
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 The dashboard was designed to answer key business questions:
 - What is the total revenue and number of orders?
 - What are the top-performing products and categories?
@@ -52,53 +52,41 @@ The dashboard was designed to answer key business questions:
 
 ---
 
-## 📊 Key Insights
-- 💰 **Total Revenue:** ₹35,20,984 from 1,000 orders  
-- ⏱️ **Average Delivery Time:** 5.53 days  
-- 🏙️ **Top Cities:** Imphal, Kavali, and Dhanbad  
-- 🎁 **Top Products:** *Aut Box*, *Accusantium Set*, and *Officiis Pack*  
-- 💃 **Gender-wise Revenue:** Female customers – 51%, Male customers – 49%  
-- 📅 **Seasonal Trends:** February and August show sales peaks due to Valentine’s Day and Raksha Bandhan  
-- 🎨 **Top Categories:** Soft Toys, Sweets, and Colors lead in revenue  
+##  Key Insights
+-  **Total Revenue:** ₹35,20,984 from 1,000 orders  
+-  **Average Delivery Time:** 5.53 days  
+-  **Gender-wise Revenue:** Female customers – 49%, Male customers – 51%  
+-  **Seasonal Trends:** February and August show sales peaks due to Valentine’s Day and Raksha Bandhan  
+-  **Top Categories:** Soft Toys, Sweets, and Colors lead in revenue  
 
 ---
 
-## 💡 Business Recommendations
-- 📈 **Seasonal Campaigns:** Focus marketing during Valentine’s and Raksha Bandhan months.  
-- 🎯 **Product Strategy:** Expand top-selling categories like Sweets and Soft Toys.  
-- 🏘️ **Regional Targeting:** Run promotional offers in high-performing cities.  
-- 🤝 **Customer Loyalty:** Launch rewards or bundled offers to increase retention.  
-- 🚚 **Operational Efficiency:** Reduce delivery time below 5 days for higher satisfaction.
+##  Business Recommendations
+-  **Seasonal Campaigns:** Focus marketing during Valentine’s and Raksha Bandhan months.  
+-  **Product Strategy:** Expand top-selling categories like Sweets and Soft Toys.  
+-  **Regional Targeting:** Run promotional offers in high-performing cities.  
+-  **Customer Loyalty:** Launch rewards or bundled offers to increase retention.  
+-  **Operational Efficiency:** Reduce delivery time below 5 days for higher satisfaction.
 
 ---
 
-## 🧰 Tools & Technologies
-- **Microsoft Excel**
-  - Power Query
-  - PivotTables & Charts
-  - Slicers & Conditional Formatting  
-- **Data Sources:** `orders.csv`, `products.csv`, `customers.csv`
 
----
 
-## 📎 Conclusion
+##  Conclusion
 The **FNP Sales Analysis Dashboard** provides a comprehensive overview of the company’s sales landscape.  
 It identifies high-revenue occasions, top-performing products, and regional strengths, offering valuable insights for marketing, operations, and customer engagement strategies.
 
 ---
 
 ## 📸 Dashboard Preview
-![FNP Dashboard Screenshot](./FNP_Dashboard.png)
+![FNP Dashboard Screenshot](./dashboard_fnp.png)
 
 ---
 
-## ⭐ How to Use
+## How to Use
 1. Clone or download this repository.  
 2. Open the Excel file and enable macros (if prompted).  
 3. Explore interactive visuals using slicers and filters.  
 4. Modify or extend datasets to perform your own analysis.
 
 ---
-
-### 🏁 End of Project
-If you find this project insightful, don’t forget to ⭐ **star** the repository and share your feedback!

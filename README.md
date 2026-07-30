@@ -81,8 +81,6 @@ It identifies high-revenue occasions, top-performing products, and regional stre
 ##  Dashboard Preview
 ![FNP Dashboard Screenshot](./dashboard_fnp.png)
 
-![FNP Dashboard Screenshot](./dashboard_fnp.png)
-
 ---
 
 ## How to Use
